@@ -17,6 +17,7 @@ library(fitdistrplus)
 library(deconvolveR)
 library(magrittr)
 library(flextable)
+library(tinytex)
 ```
 
 
